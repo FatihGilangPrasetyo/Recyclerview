@@ -5,6 +5,6 @@ data class Pemain(
     var foto : Int,
     var posisi : String,
     var tinggi : String,
-    var tempatlahir : String
+    var tempatlahir : String,
     var tgllahir : String
 )

@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project Kotlin/app/src/main/res/drawable/background_blue.xml" value="0.11" />
+        <entry key="..\:/Project Kotlin/app/src/main/res/drawable/background_btn.xml" value="0.11" />
         <entry key="..\:/Project Kotlin/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Project Kotlin/app/src/main/res/layout/activity_profile.xml" value="0.22" />
         <entry key="..\:/Project Kotlin/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
         <entry key="..\:/Project Kotlin/app/src/main/res/layout/detail_data_pemain.xml" value="0.17552083333333332" />
         <entry key="..\:/Project Kotlin/app/src/main/res/layout/list_item_pemain.xml" value="0.17552083333333332" />
+        <entry key="..\:/Project Kotlin/app/src/main/res/menu/menu_main.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>

@@ -1,3 +1,9 @@
+# Splash Screen <p>
+  Tampilan Splash Screen Setelah Di running <P>
+  <img width="150" alt="image" src="https://user-images.githubusercontent.com/81542329/176431909-7b52cadb-0619-41d9-a106-7704b48e4a7c.png"> <p>
+
+  
+    
 # Recyclerview <p>
 
 Tampian Aplikasi Setelah Di running <p>
